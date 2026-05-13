@@ -1,0 +1,15 @@
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\bin\Debug\net10.0\Lecture - ( Constructors ).exe
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\bin\Debug\net10.0\Lecture - ( Constructors ).deps.json
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\bin\Debug\net10.0\Lecture - ( Constructors ).runtimeconfig.json
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\bin\Debug\net10.0\Lecture - ( Constructors ).dll
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\bin\Debug\net10.0\Lecture - ( Constructors ).pdb
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\Lecture - ( Constructors ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\Lecture - ( Constructors ).AssemblyInfoInputs.cache
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\Lecture - ( Constructors ).AssemblyInfo.cs
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\Lecture - ( Constructors ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\Lecture - ( Constructors ).sourcelink.json
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\Lecture - ( Constructors ).dll
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\refint\Lecture - ( Constructors ).dll
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\Lecture - ( Constructors ).pdb
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\Lecture - ( Constructors ).genruntimeconfig.cache
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Constructors )\Lecture - ( Constructors )\obj\Debug\net10.0\ref\Lecture - ( Constructors ).dll

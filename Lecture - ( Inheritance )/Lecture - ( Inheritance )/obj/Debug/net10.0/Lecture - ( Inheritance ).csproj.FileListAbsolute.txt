@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\bin\Debug\net10.0\Lecture - ( Inheritance ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\bin\Debug\net10.0\Lecture - ( Inheritance ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\bin\Debug\net10.0\Lecture - ( Inheritance ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\bin\Debug\net10.0\Lecture - ( Inheritance ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\bin\Debug\net10.0\Lecture - ( Inheritance ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\Lecture - ( Inheritance ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\Lecture - ( Inheritance ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\Lecture - ( Inheritance ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\Lecture - ( Inheritance ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\Lecture - ( Inheritance ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\Lecture - ( Inheritance ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\refint\Lecture - ( Inheritance ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\Lecture - ( Inheritance ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\Lecture - ( Inheritance ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Inheritance )\Lecture - ( Inheritance )\obj\Debug\net10.0\ref\Lecture - ( Inheritance ).dll

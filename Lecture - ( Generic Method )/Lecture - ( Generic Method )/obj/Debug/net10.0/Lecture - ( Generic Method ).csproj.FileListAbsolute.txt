@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\bin\Debug\net10.0\Lecture - ( Generic Method ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\bin\Debug\net10.0\Lecture - ( Generic Method ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\bin\Debug\net10.0\Lecture - ( Generic Method ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\bin\Debug\net10.0\Lecture - ( Generic Method ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\bin\Debug\net10.0\Lecture - ( Generic Method ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\Lecture - ( Generic Method ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\Lecture - ( Generic Method ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\Lecture - ( Generic Method ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\Lecture - ( Generic Method ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\Lecture - ( Generic Method ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\Lecture - ( Generic Method ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\refint\Lecture - ( Generic Method ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\Lecture - ( Generic Method ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\Lecture - ( Generic Method ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generic Method )\Lecture - ( Generic Method )\obj\Debug\net10.0\ref\Lecture - ( Generic Method ).dll

@@ -1,0 +1,15 @@
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\bin\Debug\net10.0\Lecture - ( Params Keyword ).exe
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\bin\Debug\net10.0\Lecture - ( Params Keyword ).deps.json
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\bin\Debug\net10.0\Lecture - ( Params Keyword ).runtimeconfig.json
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\bin\Debug\net10.0\Lecture - ( Params Keyword ).dll
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\bin\Debug\net10.0\Lecture - ( Params Keyword ).pdb
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\Lecture - ( Params Keyword ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\Lecture - ( Params Keyword ).AssemblyInfoInputs.cache
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\Lecture - ( Params Keyword ).AssemblyInfo.cs
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\Lecture - ( Params Keyword ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\Lecture - ( Params Keyword ).sourcelink.json
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\Lecture - ( Params Keyword ).dll
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\refint\Lecture - ( Params Keyword ).dll
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\Lecture - ( Params Keyword ).pdb
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\Lecture - ( Params Keyword ).genruntimeconfig.cache
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Params Keyword )\Lecture - ( Params Keyword )\obj\Debug\net10.0\ref\Lecture - ( Params Keyword ).dll

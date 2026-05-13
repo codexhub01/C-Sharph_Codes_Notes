@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\bin\Debug\net10.0\Lecture - ( Encapsulation ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\bin\Debug\net10.0\Lecture - ( Encapsulation ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\bin\Debug\net10.0\Lecture - ( Encapsulation ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\bin\Debug\net10.0\Lecture - ( Encapsulation ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\bin\Debug\net10.0\Lecture - ( Encapsulation ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\Lecture - ( Encapsulation ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\Lecture - ( Encapsulation ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\Lecture - ( Encapsulation ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\Lecture - ( Encapsulation ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\Lecture - ( Encapsulation ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\Lecture - ( Encapsulation ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\refint\Lecture - ( Encapsulation ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\Lecture - ( Encapsulation ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\Lecture - ( Encapsulation ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Encapsulation )\Lecture - ( Encapsulation )\obj\Debug\net10.0\ref\Lecture - ( Encapsulation ).dll

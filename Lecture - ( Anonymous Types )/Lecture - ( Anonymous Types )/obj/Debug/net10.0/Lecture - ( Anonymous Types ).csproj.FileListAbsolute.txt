@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\bin\Debug\net10.0\Lecture - ( Anonymous Types ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\bin\Debug\net10.0\Lecture - ( Anonymous Types ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\bin\Debug\net10.0\Lecture - ( Anonymous Types ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\bin\Debug\net10.0\Lecture - ( Anonymous Types ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\bin\Debug\net10.0\Lecture - ( Anonymous Types ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\Lecture - ( Anonymous Types ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\Lecture - ( Anonymous Types ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\Lecture - ( Anonymous Types ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\Lecture - ( Anonymous Types ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\Lecture - ( Anonymous Types ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\Lecture - ( Anonymous Types ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\refint\Lecture - ( Anonymous Types ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\Lecture - ( Anonymous Types ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\Lecture - ( Anonymous Types ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Anonymous Types )\Lecture - ( Anonymous Types )\obj\Debug\net10.0\ref\Lecture - ( Anonymous Types ).dll

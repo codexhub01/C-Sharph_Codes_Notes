@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\bin\Debug\net10.0\Lecture - ( Ref vs Out keyword ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\bin\Debug\net10.0\Lecture - ( Ref vs Out keyword ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\bin\Debug\net10.0\Lecture - ( Ref vs Out keyword ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\bin\Debug\net10.0\Lecture - ( Ref vs Out keyword ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\bin\Debug\net10.0\Lecture - ( Ref vs Out keyword ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\Lecture - ( Ref vs Out keyword ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\Lecture - ( Ref vs Out keyword ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\Lecture - ( Ref vs Out keyword ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\Lecture - ( Ref vs Out keyword ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\Lecture - ( Ref vs Out keyword ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\Lecture - ( Ref vs Out keyword ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\refint\Lecture - ( Ref vs Out keyword ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\Lecture - ( Ref vs Out keyword ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\Lecture - ( Ref vs Out keyword ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Ref vs Out keyword )\Lecture - ( Ref vs Out keyword )\obj\Debug\net10.0\ref\Lecture - ( Ref vs Out keyword ).dll

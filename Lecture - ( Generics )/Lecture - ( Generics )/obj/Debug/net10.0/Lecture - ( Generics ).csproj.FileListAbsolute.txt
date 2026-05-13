@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\Lecture - ( Generics ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\Lecture - ( Generics ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\Lecture - ( Generics ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\Lecture - ( Generics ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\Lecture - ( Generics ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\bin\Debug\net10.0\Lecture - ( Generics ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\bin\Debug\net10.0\Lecture - ( Generics ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\bin\Debug\net10.0\Lecture - ( Generics ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\bin\Debug\net10.0\Lecture - ( Generics ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\bin\Debug\net10.0\Lecture - ( Generics ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\Lecture - ( Generics ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\refint\Lecture - ( Generics ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\Lecture - ( Generics ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\Lecture - ( Generics ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Generics )\Lecture - ( Generics )\obj\Debug\net10.0\ref\Lecture - ( Generics ).dll

@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\bin\Debug\net10.0\Lecture - ( Destructors ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\bin\Debug\net10.0\Lecture - ( Destructors ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\bin\Debug\net10.0\Lecture - ( Destructors ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\bin\Debug\net10.0\Lecture - ( Destructors ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\bin\Debug\net10.0\Lecture - ( Destructors ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\Lecture - ( Destructors ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\Lecture - ( Destructors ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\Lecture - ( Destructors ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\Lecture - ( Destructors ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\Lecture - ( Destructors ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\Lecture - ( Destructors ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\refint\Lecture - ( Destructors ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\Lecture - ( Destructors ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\Lecture - ( Destructors ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Destructors )\Lecture - ( Destructors )\obj\Debug\net10.0\ref\Lecture - ( Destructors ).dll

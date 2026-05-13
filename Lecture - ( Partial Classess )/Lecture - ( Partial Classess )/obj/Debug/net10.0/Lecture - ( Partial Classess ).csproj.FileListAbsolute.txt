@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\bin\Debug\net10.0\Lecture - ( Partial Classess ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\bin\Debug\net10.0\Lecture - ( Partial Classess ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\bin\Debug\net10.0\Lecture - ( Partial Classess ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\bin\Debug\net10.0\Lecture - ( Partial Classess ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\bin\Debug\net10.0\Lecture - ( Partial Classess ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\Lecture - ( Partial Classess ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\Lecture - ( Partial Classess ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\Lecture - ( Partial Classess ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\Lecture - ( Partial Classess ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\Lecture - ( Partial Classess ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\Lecture - ( Partial Classess ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\refint\Lecture - ( Partial Classess ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\Lecture - ( Partial Classess ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\Lecture - ( Partial Classess ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Partial Classess )\Lecture - ( Partial Classess )\obj\Debug\net10.0\ref\Lecture - ( Partial Classess ).dll

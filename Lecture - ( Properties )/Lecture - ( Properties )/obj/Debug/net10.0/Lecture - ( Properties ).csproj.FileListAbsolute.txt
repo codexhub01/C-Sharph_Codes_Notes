@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\bin\Debug\net10.0\Lecture - ( Properties ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\bin\Debug\net10.0\Lecture - ( Properties ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\bin\Debug\net10.0\Lecture - ( Properties ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\bin\Debug\net10.0\Lecture - ( Properties ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\bin\Debug\net10.0\Lecture - ( Properties ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\Lecture - ( Properties ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\Lecture - ( Properties ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\Lecture - ( Properties ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\Lecture - ( Properties ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\Lecture - ( Properties ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\Lecture - ( Properties ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\refint\Lecture - ( Properties ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\Lecture - ( Properties ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\Lecture - ( Properties ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Properties )\Lecture - ( Properties )\obj\Debug\net10.0\ref\Lecture - ( Properties ).dll

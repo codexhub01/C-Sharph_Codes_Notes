@@ -1,0 +1,14 @@
+1. Private Constructors
+2. Garbage Collections
+3. Diff between finalize keyword & dispose
+4. Access Modifiers 
+5. Polymorphism
+6. Operator Overloading
+7. Method Hiding
+8. Sealed Class & Sealed Method
+9. Extension Method
+10. Delegates , Lambda Expressions & Events
+11. Multithreading
+12. Indexers & Enums
+13. Dynamic Vs Reflection
+14. Ref vs Out keyword ( what actually difference in terms of returning value )

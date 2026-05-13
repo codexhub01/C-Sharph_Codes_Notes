@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\bin\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\bin\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\bin\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\bin\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\bin\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\refint\Lecture - ( Abstraction Using Interfaces ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\Lecture - ( Abstraction Using Interfaces ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction Using Interfaces )\Lecture - ( Abstraction Using Interfaces )\obj\Debug\net10.0\ref\Lecture - ( Abstraction Using Interfaces ).dll

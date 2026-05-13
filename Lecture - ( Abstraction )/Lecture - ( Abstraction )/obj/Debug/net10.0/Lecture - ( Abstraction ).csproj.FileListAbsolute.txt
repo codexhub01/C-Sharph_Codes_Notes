@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\Lecture - ( Abstraction ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\Lecture - ( Abstraction ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\Lecture - ( Abstraction ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\Lecture - ( Abstraction ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\Lecture - ( Abstraction ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\bin\Debug\net10.0\Lecture - ( Abstraction ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\bin\Debug\net10.0\Lecture - ( Abstraction ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\bin\Debug\net10.0\Lecture - ( Abstraction ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\bin\Debug\net10.0\Lecture - ( Abstraction ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\bin\Debug\net10.0\Lecture - ( Abstraction ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\Lecture - ( Abstraction ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\refint\Lecture - ( Abstraction ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\Lecture - ( Abstraction ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\Lecture - ( Abstraction ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Abstraction )\Lecture - ( Abstraction )\obj\Debug\net10.0\ref\Lecture - ( Abstraction ).dll

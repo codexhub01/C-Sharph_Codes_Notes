@@ -1,0 +1,15 @@
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\bin\Debug\net10.0\Lecture - ( Static Class ).exe
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\bin\Debug\net10.0\Lecture - ( Static Class ).deps.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\bin\Debug\net10.0\Lecture - ( Static Class ).runtimeconfig.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\bin\Debug\net10.0\Lecture - ( Static Class ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\bin\Debug\net10.0\Lecture - ( Static Class ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\Lecture - ( Static Class ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\Lecture - ( Static Class ).AssemblyInfoInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\Lecture - ( Static Class ).AssemblyInfo.cs
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\Lecture - ( Static Class ).csproj.CoreCompileInputs.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\Lecture - ( Static Class ).sourcelink.json
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\Lecture - ( Static Class ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\refint\Lecture - ( Static Class ).dll
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\Lecture - ( Static Class ).pdb
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\Lecture - ( Static Class ).genruntimeconfig.cache
+C:\Users\Mayank\Desktop\C_Sharph\Lecture - ( Static Class )\Lecture - ( Static Class )\obj\Debug\net10.0\ref\Lecture - ( Static Class ).dll

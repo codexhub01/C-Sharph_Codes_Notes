@@ -1,0 +1,15 @@
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\bin\Debug\net10.0\Lecture - ( Methods ).exe
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\bin\Debug\net10.0\Lecture - ( Methods ).deps.json
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\bin\Debug\net10.0\Lecture - ( Methods ).runtimeconfig.json
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\bin\Debug\net10.0\Lecture - ( Methods ).dll
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\bin\Debug\net10.0\Lecture - ( Methods ).pdb
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\Lecture - ( Methods ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\Lecture - ( Methods ).AssemblyInfoInputs.cache
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\Lecture - ( Methods ).AssemblyInfo.cs
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\Lecture - ( Methods ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\Lecture - ( Methods ).sourcelink.json
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\Lecture - ( Methods ).dll
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\refint\Lecture - ( Methods ).dll
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\Lecture - ( Methods ).pdb
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\Lecture - ( Methods ).genruntimeconfig.cache
+C:\Users\mayan\Desktop\C_Sharph\Lecture - ( Methods )\Lecture - ( Methods )\obj\Debug\net10.0\ref\Lecture - ( Methods ).dll
