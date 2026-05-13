@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture - ( Type Casting )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3292bcca78482d0ed0939fd682dc548d598140b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41f4483a28eb2a35d2930b41324a5c48cc223255")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture - ( Type Casting )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture - ( Type Casting )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

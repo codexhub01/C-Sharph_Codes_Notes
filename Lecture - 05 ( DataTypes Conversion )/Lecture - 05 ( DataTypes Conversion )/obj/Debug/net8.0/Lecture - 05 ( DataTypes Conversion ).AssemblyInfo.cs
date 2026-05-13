@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture - 05 ( DataTypes Conversion )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2b7d740c7bbadd8cd5b8ea3af4f037a6c12828b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41f4483a28eb2a35d2930b41324a5c48cc223255")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture - 05 ( DataTypes Conversion )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture - 05 ( DataTypes Conversion )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

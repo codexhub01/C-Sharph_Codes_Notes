@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "d8y95LnCfyE=",
+  "dgSpecHash": "sQAe0x45VYU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mayank Pal\\Desktop\\C-Sharph-Tutorial\\Lecture - 05 ( DataTypes Conversion )\\Lecture - 05 ( DataTypes Conversion )\\Lecture - 05 ( DataTypes Conversion ).csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mayan\\OneDrive\\Desktop\\C-Sharph Codes & Notes\\Lecture - 05 ( DataTypes Conversion )\\Lecture - 05 ( DataTypes Conversion )\\Lecture - 05 ( DataTypes Conversion ).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mayan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\mayan\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\mayan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\mayan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.27\\microsoft.netcore.app.host.win-x64.8.0.27.nupkg.sha512"
+  ],
   "logs": []
 }

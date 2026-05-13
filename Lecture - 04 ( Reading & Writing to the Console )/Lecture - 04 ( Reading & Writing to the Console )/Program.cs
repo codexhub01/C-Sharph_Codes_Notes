@@ -25,7 +25,9 @@ namespace Lecture___04___Reading___Writing_to_the_Console__
             int number = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Input number is : {0}",number);
 
+            Console.ReadKey(); // this is for pause program or detect keyboard input
 
+            Console.Read(); // to input single character ascii
             Console.ReadLine();
 
         }
