@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mayan\\OneDrive\\Desktop\\C-Sharph Codes & Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\Lecture - ( Methods ).csproj": {}
+    "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\Lecture - ( Methods ).csproj": {}
   },
   "projects": {
-    "C:\\Users\\mayan\\OneDrive\\Desktop\\C-Sharph Codes & Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\Lecture - ( Methods ).csproj": {
+    "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\Lecture - ( Methods ).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mayan\\OneDrive\\Desktop\\C-Sharph Codes & Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\Lecture - ( Methods ).csproj",
+        "projectUniqueName": "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\Lecture - ( Methods ).csproj",
         "projectName": "Lecture - ( Methods )",
-        "projectPath": "C:\\Users\\mayan\\OneDrive\\Desktop\\C-Sharph Codes & Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\Lecture - ( Methods ).csproj",
+        "projectPath": "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\Lecture - ( Methods ).csproj",
         "packagesPath": "C:\\Users\\mayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mayan\\OneDrive\\Desktop\\C-Sharph Codes & Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\obj\\",
+        "outputPath": "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Methods )\\Lecture - ( Methods )\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

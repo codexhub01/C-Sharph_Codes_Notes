@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture - ( Destructors )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e440a98f3b214ce2c81862cda7ba7c0ce985400")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15bac590fbdba9b4907e6bff916ae7a5d2279125")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture - ( Destructors )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture - ( Destructors )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
