@@ -1,0 +1,15 @@
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\Lecture - ( CallByValueAndReference ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\Lecture - ( CallByValueAndReference ).AssemblyInfoInputs.cache
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\Lecture - ( CallByValueAndReference ).AssemblyInfo.cs
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\Lecture - ( CallByValueAndReference ).csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\Lecture - ( CallByValueAndReference ).sourcelink.json
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\bin\Debug\net10.0\Lecture - ( CallByValueAndReference ).exe
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\bin\Debug\net10.0\Lecture - ( CallByValueAndReference ).deps.json
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\bin\Debug\net10.0\Lecture - ( CallByValueAndReference ).runtimeconfig.json
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\bin\Debug\net10.0\Lecture - ( CallByValueAndReference ).dll
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\bin\Debug\net10.0\Lecture - ( CallByValueAndReference ).pdb
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\Lecture - ( CallByValueAndReference ).dll
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\refint\Lecture - ( CallByValueAndReference ).dll
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\Lecture - ( CallByValueAndReference ).pdb
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\Lecture - ( CallByValueAndReference ).genruntimeconfig.cache
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Lecture - ( CallByValueAndReference )\Lecture - ( CallByValueAndReference )\obj\Debug\net10.0\ref\Lecture - ( CallByValueAndReference ).dll
