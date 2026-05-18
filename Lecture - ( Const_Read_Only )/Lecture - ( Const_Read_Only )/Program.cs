@@ -15,3 +15,21 @@ namespace A
         }
     }
 }
+
+/*
+
+-> Read & const exist so the value could not change
+
+Const :-
+-> Compile time constant because value fixed during compilation
+-> Must assigned immediately
+-> replace value directly
+
+Readonly :-
+-> value can assign during declaration or constructor
+-> Initialize during run time
+-> Fixed after run time initilization
+-> stores in memory and then checked at runtime
+
+
+*/

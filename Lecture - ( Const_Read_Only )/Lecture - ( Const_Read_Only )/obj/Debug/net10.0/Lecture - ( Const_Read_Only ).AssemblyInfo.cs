@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture - ( Const_Read_Only )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3b4f11a2eb1a3fc2658c16267ec8ed484947f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e97aec66294e985a437279b0c0bb69b0f5343a0a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture - ( Const_Read_Only )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture - ( Const_Read_Only )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
