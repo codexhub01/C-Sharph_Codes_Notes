@@ -1,0 +1,15 @@
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\bin\Debug\net10.0\Interface in C#.exe
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\bin\Debug\net10.0\Interface in C#.deps.json
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\bin\Debug\net10.0\Interface in C#.runtimeconfig.json
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\bin\Debug\net10.0\Interface in C#.dll
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\bin\Debug\net10.0\Interface in C#.pdb
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\Interface in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\Interface in C#.AssemblyInfoInputs.cache
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\Interface in C#.AssemblyInfo.cs
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\Interface in C#.csproj.CoreCompileInputs.cache
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\Interface in C#.sourcelink.json
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\Interface in C#.dll
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\refint\Interface in C#.dll
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\Interface in C#.pdb
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\Interface in C#.genruntimeconfig.cache
+C:\Users\mayan\Desktop\C-Sharph_Codes_Notes\Interface in C#\Interface in C#\obj\Debug\net10.0\ref\Interface in C#.dll
