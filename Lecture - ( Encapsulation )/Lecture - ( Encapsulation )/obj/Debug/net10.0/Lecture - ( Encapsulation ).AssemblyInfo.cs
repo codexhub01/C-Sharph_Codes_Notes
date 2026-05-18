@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture - ( Encapsulation )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e2c5ac8d312f09356bb39ddc1f1794ae5a5ce06")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2e0bc3b9b889eaededcec202fdf74deace0a76d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture - ( Encapsulation )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture - ( Encapsulation )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

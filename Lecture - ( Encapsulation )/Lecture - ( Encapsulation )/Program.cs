@@ -41,3 +41,33 @@ namespace A
         }
     }
 }
+
+/*  
+ 
+ Encapsulation :-
+-> wrapping data & method together into single unit & restricting direct access to data
+-> It hides data but abstraction hides implementation also
+-> It majorly use private keyword to hide 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ */

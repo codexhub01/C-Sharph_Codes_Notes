@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mayank\\Desktop\\C_Sharph\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation ).csproj": {}
+    "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation ).csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mayank\\Desktop\\C_Sharph\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation ).csproj": {
+    "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation ).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mayank\\Desktop\\C_Sharph\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation ).csproj",
+        "projectUniqueName": "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation ).csproj",
         "projectName": "Lecture - ( Encapsulation )",
-        "projectPath": "C:\\Users\\Mayank\\Desktop\\C_Sharph\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation ).csproj",
-        "packagesPath": "C:\\Users\\Mayank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mayank\\Desktop\\C_Sharph\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\obj\\",
+        "projectPath": "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation ).csproj",
+        "packagesPath": "C:\\Users\\mayan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mayan\\Desktop\\C-Sharph_Codes_Notes\\Lecture - ( Encapsulation )\\Lecture - ( Encapsulation )\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net10.0": {
+            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -44,10 +45,11 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net10.0": {
+          "framework": "net10.0",
           "targetAlias": "net10.0",
           "imports": [
             "net461",
@@ -65,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
