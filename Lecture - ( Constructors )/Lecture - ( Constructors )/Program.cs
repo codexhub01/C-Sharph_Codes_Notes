@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml.Linq;
 namespace ABC
 {
     class B
@@ -11,9 +12,44 @@ namespace ABC
 
     class S
     {
-       static S()
+       static S() 
         {
             Console.WriteLine("Static Constructor");
+        }
+
+       
+    }
+
+    //constructor chaining 
+    public class CC
+    {
+        //calling one constructor from another constructor
+        public CC() : this("unkown")
+        {
+
+        }
+        public CC(string name)
+        {
+            Console.WriteLine(name);
+        }
+    }
+
+    //calling parent class constructor 
+    public class Person
+    {
+        //calling one constructor from another constructor
+        public Person() : this("unkown")
+        {
+
+        }
+       
+    }
+
+    class Student : Person
+    {
+        public Student() : base()
+        {
+            Console.WriteLine("print something");
         }
     }
 
@@ -79,3 +115,21 @@ namespace ABC
         }
     }
 }
+
+/*  
+ Constructor :-
+-> A special method automatically called when object is created
+-> no return type not even void
+
+Constructor Overloading :-
+-> multiple constructor with same name but different parameters
+ 
+Private constructor :-
+-> commonly used in singleton design pattern
+ 
+ 
+ 
+ 
+ 
+ 
+ */
