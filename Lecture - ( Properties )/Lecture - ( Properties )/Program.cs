@@ -21,6 +21,12 @@ namespace ABC
         {
             this.G1S1 = no;
         }
+
+        //auto implemented property
+        public int phoneno { get; set; }
+
+        //short expression property
+        public string name => "roy";
     }
     class A
     {
@@ -33,3 +39,13 @@ namespace ABC
         }
     }
 }
+
+
+/*
+ 
+Properties :-
+-> special members used to aceess & control class field safely
+-> properties are basically combination of variables & methods
+-> To controlled reading & writing
+
+ */
