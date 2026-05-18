@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture - ( Inheritance )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad752415924843fd7444fb12a9e56f68f2b25ec8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13388fb4a52a90a8a0256bffa2d9fb9817cb1835")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture - ( Inheritance )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture - ( Inheritance )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
