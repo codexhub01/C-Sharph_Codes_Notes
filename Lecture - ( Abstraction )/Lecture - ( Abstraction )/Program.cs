@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 namespace A
 {
     public abstract class P1
@@ -18,7 +19,13 @@ namespace A
         {
             Console.WriteLine("This is method inside B1 class");
         }
+
+
+     
     }
+
+  
+
 
     public class B2 : P1
     {
@@ -44,3 +51,54 @@ namespace A
         }
     }
 }
+
+/*  
+ 
+ -> It means hiding internal implementation details and showing only essential features
+
+How abstration achieved ?
+-> using abstract class'
+-> interface
+
+Abstract class :-
+-> incomplete class meant for inheritance
+-> Of which object can not create directly , because it contain incomplete behaviour
+-> It can have abstract methods , normal methods , fields , constructors
+-> It can have both normal & abstract methods
+
+Abstract method :-
+-> method without implementation
+-> It forced derived class to implement bheavious
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ */
