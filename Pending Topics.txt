@@ -1,3 +1,4 @@
 1. Destructor
 2. Garbage Collection
 3. Differences Between Finalize and Dispose in C#
+4. Extension Methods in C#
