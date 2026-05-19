@@ -28,7 +28,4 @@ Partial Method :-
 -> and these method should be in partial class only
  
  
- 
- 
- 
  */
