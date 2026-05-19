@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture - ( Partial Classess )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9526ce3e81684a0928bca3ab0be32907c0b9dcd8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4192e727499825cdc360de52e6313b7b98a33484")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture - ( Partial Classess )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture - ( Partial Classess )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,3 +13,22 @@ namespace A
         }
     }
 }
+
+/*  
+ 
+Partial class :-
+-> Splitting single class defination into multiple files 
+-> It's only availiable during development not during compiled time
+-> It must use partial keyword
+-> Have same class name
+-> Esist in same namespace
+ 
+Partial Method :-
+-> method declaration whose implementation is optional
+-> and these method should be in partial class only
+ 
+ 
+ 
+ 
+ 
+ */
