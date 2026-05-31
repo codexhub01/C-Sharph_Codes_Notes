@@ -23,3 +23,14 @@ namespace ABC
         }
     }
 }
+
+/* 
+ 
+Destructor :-
+-> Before object dies , it cleans up the memory
+-> Garbage collector decides when its going to run and its non-deterministic
+
+
+ 
+ 
+ */
