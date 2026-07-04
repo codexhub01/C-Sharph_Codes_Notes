@@ -1,6 +1,18 @@
 ﻿using System;
 namespace A
 {
+    class XYZ
+    {
+        public const string add_no = "4237536924";
+
+        public readonly int empid;
+        public XYZ(int _empid)
+        {
+                empid = _empid;
+        }
+    }
+
+
     class ABC
     {
         //This can not be modifed because of const
@@ -11,6 +23,7 @@ namespace A
         {
             name = "Mayank";
            
+            XYZ xyz = new XYZ(num);
             
         }
     }
