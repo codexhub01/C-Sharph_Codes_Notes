@@ -28,7 +28,8 @@ namespace ABC
             return a + 10;
         }
 
-        public void optional_para(int a = 10)
+        public void 
+            optional_para(int a = 10)
         {
             Console.WriteLine(a);
         }
@@ -50,11 +51,11 @@ namespace ABC
             Console.WriteLine(no);
         }
 
-        //static void change_by_out(out int no, out int ns)
-        //{
-        //    //no+= 21;
-        //    //ns -= 19;
-        //}
+        static void change_by_out(out int no, out int ns)
+        {
+            no= 21;
+            ns= 19;
+        }
 
         public static void Main(String[] args)
         {
@@ -78,7 +79,7 @@ namespace ABC
             Console.WriteLine("After passed by ref : " , c);
 
             //passed by out
-            //A.change_by_out (out c , out d);
+            A.change_by_out(out c, out d);
 
             //optional parameter
             mb.optional_para();
