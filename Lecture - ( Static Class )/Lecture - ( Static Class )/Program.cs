@@ -1,6 +1,10 @@
 ﻿using System;
 namespace A
 {
+    class Employee
+    {
+        public static string cname = "google";
+    }
     //static class
     static class Stclass
     {
@@ -33,6 +37,8 @@ namespace A
 
             //calling static method
             ABC.static_method(2, 6);
+
+            Console.WriteLine(Employee.cname);
 
             Console.ReadLine();
         }
