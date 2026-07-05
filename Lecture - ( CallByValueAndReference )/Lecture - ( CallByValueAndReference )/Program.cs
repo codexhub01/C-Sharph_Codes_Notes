@@ -13,11 +13,11 @@
             Console.WriteLine(val);
         }
 
-        //public void passed_by_out(out int a)
-        //{
-        //    //a += 100;
-        //    Console.WriteLine(val);
-        //}
+        public void passed_by_out(out int a)
+        {
+            a = 100;
+            Console.WriteLine(a);
+        }
     }
 
     class A
@@ -29,8 +29,10 @@
 
             //passed  by ref
             int x = 12;
+            int c;
             b.passed_by_ref(ref x);
             Console.WriteLine(x);
+            b.passed_by_out(out c);
 
 
 
