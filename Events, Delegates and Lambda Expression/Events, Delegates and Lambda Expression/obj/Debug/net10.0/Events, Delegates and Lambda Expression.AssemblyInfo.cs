@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Events, Delegates and Lambda Expression")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+307b28e725de53d351fff151217e19ee91c38d33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6dc1cf68142fc326224093e21310f0174e52285")]
 [assembly: System.Reflection.AssemblyProductAttribute("Events, Delegates and Lambda Expression")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Events, Delegates and Lambda Expression")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

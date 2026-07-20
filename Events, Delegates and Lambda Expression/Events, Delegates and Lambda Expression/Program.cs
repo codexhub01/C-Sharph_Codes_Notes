@@ -1,63 +1,67 @@
 ﻿using System;
 namespace ABC
 {
-    delegate void delegate_method();
+    public delegate void MyDelegate();
+
+    public delegate void operation(int a, int b);
     class X
     {
-        static void show()
-        {
-            Console.WriteLine("Hey HI");
-        }
-
-        static void Display()
-        {
-            Console.WriteLine("Hello");
-        }
-
-        //Events
-
-        public event delegate_method my_event;
-
-        public void start()
-        {
-            Console.WriteLine("Start method ");
-            my_event?.Invoke();
-        }
-
+        
         public static void Main(string[] args)
         {
-            //Storing reference of show method
-            delegate_method d = show;
+            MyDelegate obj = PrintMessage;
+            operation add1 = Add;
+            add1(3, 4);
+            Multiply(13, 4);
+            obj();
+        }
 
-            //Here reference is getting stroed of another method
-            d += Display;
-            
-            //calling method
-            d();
+        static void PrintMessage()
+        {
+            Console.WriteLine("Hello World");
+        }
 
+        static void Add(int a, int b)
+        {
+            Console.WriteLine(a + b);
+        }
 
-            X obj = new X();
-            obj.my_event += show;
-            obj.my_event += Display;
-            
+        static void Multiply(int a, int b)
+        {
+            Console.WriteLine(a * b);
         }
     }
 }
 
-/*  
-Delegates :-
--> It stores reference of a method
--> It allow method to be passed like a variable
--> Example like remote control
--> Its a foundation of events & lambda expression
--> It store methods with not rerturn type & no parameters
--> Internally irt derived from System.Delegate 
- -> d += Display :- means adding reference of another method
- 
- Events :-
--> mechanism for notification or communication between objects
--> It uses delegates internally
--> Events are delegates based notification
--> .Invoke() :- safely trigger event 
+/*
+    
+Delegate :-
+-> It's a type safe function pointer
+-> Holds a refrence of a method
+-> Instead of calling directly , u call it through delegate
 
- */
+
+Why delegates ?
+-> Suppose u wanna different methods to execute dynamically
+
+
+Types of delegates :-
+-> Single cast ( One method )
+-> Multicast delegate ( Multiple methods )
+-> Bult in delegates ( Instead of creating delegates , C# provides three built int delegates )
+    1. Action :- returns nothing
+    2. Func :- returns a value
+    3. Predicate :- always returns bool
+
+
+Event :-
+-> Its based on delegates
+-> It allows one object to notify another object when something happens
+
+
+
+
+
+
+
+*/

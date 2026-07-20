@@ -1,60 +1,109 @@
 ﻿using System;
+using System.Threading;
 namespace ABC
 {
     class X
     {
-        static void Display()
-        {
-            for (int i = 0; i < 10; i++)
-            {
-                Console.WriteLine("print saomething");
-            }
-        }
         public static void main(String[] args)
+        {
+            Thread th = new Thread(PrintNumbers);
+            th.Start();
+            th.Join();
+
+
+            Task task = Task.Run(() => { 
+                Console.WriteLine(""); 
+            
+            });
+
+        }
+
+        static void PrintNumbers()
         {
             for (int i = 1; i <= 5; i++)
             {
                 Console.WriteLine(i);
-
-                // this means it will wait for 1 second
-                Thread.Sleep(1000);
             }
-
-            //creating custom thread and starting too by ourself
-            Thread td = new Thread(Display);
-            td.Start();
-
-            Task.Run(() => { Console.WriteLine("print something"); });
-
         }
     }
 }
 
 
 /*       
- Thread :- 
--> smallest unit of execution inside a process
--> process conatins one or more thread
--> thread inside same process share memory
--> It shares same heap memory
--> all thread have their own stack , but shares same heap ( and this is a problem )
 
 Multithreading :-
--> executing multiple threads concurrently
- 
- Deadlock :-
--> means thraed waiting forever for each other
+-> It allows multiple threads to execute concurrently within the same process
+-> With the help of multithreding multiple task can execute at once
 
--> Moderly C# rarely uses thread , instaed of it they use task
- 
- Async programming :- non blocking operations
- Async :- it does not always create new thread
- 
- 
- 
- 
- 
- 
- 
- 
+
+Example :-
+-> Downloading a file while updating the ui
+
+Process :-
+-> Independent program
+-> Has its own memory
+-> Heayyweight
+-> Slower to create
+
+
+Thread :-
+-> Smallest exexcution unit inside a process
+-> Shares process memory
+-> Lightweight
+-> Faster to create
+
+Example :-
+
+
+Chrome :-
+-> Tab 1 ( Thread )
+-> Tab 2 ( Thread )
+-> Rendering thread
+
+Chrome is a process containing multiple threads
+
+-> th.start() :- to start thread
+-> th.join() :- if this use then it will wait for the thread 1 to complete
+
+
+Thread class limitations :-
+creating many threads is expensive :-
+1. High memory ussage
+2. Context switching overhead
+3. slower performance
+
+
+That's why modern .net applications typically use TPL ( Task Parallel Library )
+
+So instead of using thread like creating an object & all we do this
+
+Task.Run(() =>
+{
+    Console.WriteLine("Running...");
+});
+
+
+Thread :-
+-> Low level
+-> Manual management
+-> Expensive
+-> Create OS today
+-> Less common today
+
+Task :-
+-> High level 
+-> Managed by task scheduler
+-> Lightweight
+-> Use thread pool
+-> preferred in modern .net apps
+
+
+Thread Pool :-
+-> Maintains resuable threads
+-> It reuses existing threads
+-> Usually we dont call it directly , task.run() uses it internally
+
+
+Race Condition :-
+-> Multiple threads updating same variable
  */
