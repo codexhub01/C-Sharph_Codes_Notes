@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Indexers in C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6dc1cf68142fc326224093e21310f0174e52285")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e688634a4c68f05d29a34e8159c3811316d26b37")]
 [assembly: System.Reflection.AssemblyProductAttribute("Indexers in C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Indexers in C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

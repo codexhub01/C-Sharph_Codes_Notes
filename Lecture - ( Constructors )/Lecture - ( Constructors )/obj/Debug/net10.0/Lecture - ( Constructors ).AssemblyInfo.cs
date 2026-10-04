@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lecture - ( Constructors )")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c5b760816a621aa3fb2886f722916cc9c8ede3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e688634a4c68f05d29a34e8159c3811316d26b37")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lecture - ( Constructors )")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lecture - ( Constructors )")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

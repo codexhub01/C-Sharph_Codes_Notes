@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Stack and Heap Memory in .NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d06aefc783f24ce3c1893eaa3609a66c5264c800")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e688634a4c68f05d29a34e8159c3811316d26b37")]
 [assembly: System.Reflection.AssemblyProductAttribute("Stack and Heap Memory in .NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Stack and Heap Memory in .NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

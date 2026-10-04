@@ -33,6 +33,8 @@ namespace ABC
         public static void Main(String[] args)
         {
            B obj = new B();
+            obj.G1S1
+                = 100;
             obj.M1(100);
            Console.WriteLine(obj.G1S1);
            Console.ReadLine();
